@@ -8016,10 +8016,6 @@
 		(uuid "aa93eab6-df2f-4d95-9435-278cebde5ff4")
 	)
 	(no_connect
-		(at 25.4 135.89)
-		(uuid "ab79bb36-de8b-4980-a58d-cccb83157be9")
-	)
-	(no_connect
 		(at 35.56 254)
 		(uuid "afb76353-9ce5-4a61-bbff-5b0ff87501bb")
 	)
@@ -13218,7 +13214,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "10K"
 			(at 151.13 264.16 90)
 			(effects
 				(font
@@ -14034,7 +14030,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 313.182 163.83 90)
 			(effects
 				(font
@@ -15849,7 +15845,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "10K"
 			(at 19.05 228.6 90)
 			(effects
 				(font
@@ -15927,7 +15923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 245.872 236.22 90)
 			(effects
 				(font
@@ -16066,7 +16062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 341.122 163.83 90)
 			(effects
 				(font
@@ -18217,7 +18213,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 284.1752 240.03 0)
 			(effects
 				(font
@@ -20940,7 +20936,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 328.422 163.83 90)
 			(effects
 				(font
