@@ -519,7 +519,7 @@
       "plot": "prod",
       "pos_files": "/home/vighnesh/workspace/ntp-devboard/ntp-devboard/assemb/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ntp-devboard.step",
       "svg": "",
       "vrml": ""
     },
