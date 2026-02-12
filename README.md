@@ -17,4 +17,4 @@ More instrucions coming after I get my PCB printed!
 <img width="1001" height="1048" alt="image" src="https://github.com/user-attachments/assets/7dba7fbb-b57b-4e35-a2e1-f0637feb708b" />
 
 # BOM TABLE
-Please look at the bom.xls in the root directory!
+Please look at the bom.xls,lcsv.csv in the root directory!
