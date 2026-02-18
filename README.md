@@ -11,6 +11,8 @@ Thats why I wanted my own STRATUM 1 Server at home, this is also a good project 
 Get this pcb printed, make sure to get a gps module with a PPS pin and connect the pins via breadboard / soldering   
 to the gpio pins of the rp2040, then use my firmware and connect the ethernet cable to your pc.  
 Make sure to change the gpio pins in the header to the ones you have connected.
+Change your ntp server to point to the rp2040's ip and then done!  
+You have your own stratum 1 ntp server  
 More instrucions coming after I get my PCB printed!
 
 # Schematic and stuff
