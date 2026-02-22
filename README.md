@@ -57,3 +57,7 @@ If it's been over 24 hours, please re-match before placing your order. |        
 | 3      | C5139763 | HS13L01WZ01           | HS                            | -                     |            | 1.3 128x64 sh1106 SPI LCD, OLED, Graphic RoHS                         | yes  | 2        | 1   | 1        | 4.6311        | 9.26              | https://www.lcsc.com/product-detail/C5139763.html |
 | 4      | C9753    | DS18B20+              | MAXIM                         | TO-92                 |            | -55℃~+125℃ Single-bus 3V~5.5V TO-92 Analog and Digital Output RoHS    | yes  | 1        | 1   | 1        | 1.1630        | 1.16              | https://www.lcsc.com/product-detail/C9753.html    |
 | 5      | C784382  | BWGNSCNX18-18B1Y2L120 | BAT WIRELESS                  | -                     |            | RF ANTENNA Ceramic                                                    | yes  | 1        | 1   | 1        | 1.6729        | 1.67              | https://www.lcsc.com/product-detail/C784382.html  |
+
+A Gps module with a PPS pin https://roboticsdna.in/product/gps-neo-6m-satellite-positioning-module-development-board-for-arduino-stm32-51/
+Jumper wire https://roboticsdna.in/product/65pcs-flexible-breadboard-jumper-wires/
+Bread Board https://roboticsdna.in/product/syb-170-black-mini-solderless-breadboard/
